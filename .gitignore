@@ -1,0 +1,10 @@
+# Ignore Jupyter temporary checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache folders
+__pycache__/
+
+# Ignore virtual environments
+env/
+venv/
+.env
